@@ -1,0 +1,2 @@
+This folder contains the original testing and fil for this project. It does not need to be ran or even looked at, just wanted to include it.
+This also includes the link to the original data: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
