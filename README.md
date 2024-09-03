@@ -32,7 +32,8 @@ Due to the large size of the dataset, it cannot be uploaded directly to GitHub. 
    - Click the "Download" button to download the dataset.
 
 2. **Extract and Place the Data**:
-   - After downloading, extract the contents of the ZIP file.
+   - After downloading, make sure the file is in the data/ folder
+   - Extract the contents of the ZIP file.
 
 ## Installation
 To run this project locally:
